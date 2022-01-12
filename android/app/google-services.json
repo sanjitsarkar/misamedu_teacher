@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "133890907632",
+    "project_id": "misamedu-8b6c8",
+    "storage_bucket": "misamedu-8b6c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133890907632:android:bb96c5e8b5e5a3bbf51135",
+        "android_client_info": {
+          "package_name": "com.misam.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133890907632-13ognrniqgqc7j8r86p81m42kc8bd18g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.misam.edu",
+            "certificate_hash": "155b4931dbc24e0ce87289d411c4f0d5414bde49"
+          }
+        },
+        {
+          "client_id": "133890907632-mc5ap8jvk8br7ff57q6hdqn9sl07f4pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0ZvmK7z6ROC5qlpKUVGl-H0TavwY0YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133890907632-mc5ap8jvk8br7ff57q6hdqn9sl07f4pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133890907632:android:3976203f1070c076f51135",
+        "android_client_info": {
+          "package_name": "com.misam.edu_teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133890907632-72qubnlq6k5isjhsocs6qhjlejfdsv8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.misam.edu_teacher",
+            "certificate_hash": "155b4931dbc24e0ce87289d411c4f0d5414bde49"
+          }
+        },
+        {
+          "client_id": "133890907632-mc5ap8jvk8br7ff57q6hdqn9sl07f4pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0ZvmK7z6ROC5qlpKUVGl-H0TavwY0YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133890907632-mc5ap8jvk8br7ff57q6hdqn9sl07f4pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
